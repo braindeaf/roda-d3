@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    haml (5.2.1)
+      temple (>= 0.8.0)
+      tilt
+    nio4r (2.5.2)
+    puma (5.3.2)
+      nio4r (~> 2.0)
+    rack (2.2.3)
+    roda (3.46.0)
+      rack
+    temple (0.8.2)
+    tilt (2.0.10)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haml
+  puma
+  roda
+
+BUNDLED WITH
+   1.17.3
